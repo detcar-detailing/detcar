@@ -1,0 +1,265 @@
+{
+  "topbar": {
+    "home": "Home",
+    "contact": "Kontakt",
+    "gallery": "Galerie",
+    "logoAlt": "Det-Car Logo"
+  },
+  "hero": {
+    "title": "Detailing Service",
+    "subtitle": "Professionelle Autoaufbereitung Frankfurt am Main",
+    "backgroundAlt": "Oldtimer-Innenraum eines Autos",
+    "contactPopover": {
+      "title": "Kontakt",
+      "subtitle": "Nehmen Sie Kontakt mit uns auf.",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "location": "Standort"
+    }
+  },
+  "servicesSection": {
+    "title": "Dienstleistungen",
+    "pricePrefix": "ab",
+    "packages": {
+      "classicOne": {
+        "title": "Classic 1",
+        "services": {
+          "chemicalCleaning": {
+            "title": "Vollständige chemische Innen- und Kofferraumreinigung, einschließlich:",
+            "subItems": [
+              "Sitze",
+              "Teppiche",
+              "Bodenmatten",
+              "Decke",
+              "Türverkleidungen",
+              "alle Kunststoffteile",
+              "Reinigung der Türöffnungen",
+              "Reinigung der Scheiben von innen"
+            ]
+          }
+        }
+      },
+      "classicTwo": {
+        "title": "Classic 2",
+        "services": {
+          "carWashByHand": {
+            "title": "Autowäsche von Hand, einschließlich:",
+            "subItems": [
+              "Autoräder",
+              "Autoscheiben (innen und außen)",
+              "Reifenpflege"
+            ]
+          },
+          "carPolish": {
+            "title": "Zweistufige Autopolitur",
+            "firstStep": {
+              "title": "erste Stufe:",
+              "subItems": [
+                "Farbrestauration",
+                "Glanzverstärkung",
+                "Beseitigung kleinerer Kratzer"
+              ]
+            },
+            "secondStep": {
+              "title": "zweite Stufe:",
+              "subItems": ["Anti-Hologramm"]
+            }
+          }
+        }
+      },
+      "Luxe": {
+        "title": "Luxe",
+        "services": {
+          "carWashByHand": {
+            "title": "Autowäsche von Hand, einschließlich:",
+            "subItems": [
+              "Autoräder",
+              "Autoscheiben (innen und außen)",
+              "Reifenpflege"
+            ]
+          },
+          "chemicalCleaning": {
+            "title": "Vollständige chemische Innen- und Kofferraumreinigung, einschließlich:",
+            "subItems": [
+              "Sitze",
+              "Teppiche",
+              "Bodenmatten",
+              "Decke",
+              "Türverkleidungen",
+              "alle Kunststoffteile",
+              "Reinigung der Türöffnungen",
+              "Reinigung der Scheiben von innen"
+            ]
+          },
+          "carPolish": {
+            "title": "Zweistufige Autopolitur",
+            "firstStep": {
+              "title": "erste Stufe:",
+              "subItems": [
+                "Farbrestauration",
+                "Glanzverstärkung",
+                "Beseitigung kleinerer Kratzer"
+              ]
+            },
+            "secondStep": {
+              "title": "zweite Stufe:",
+              "subItems": ["Anti-Hologramm"]
+            }
+          }
+        }
+      },
+      "DeLuxe": {
+        "title": "DeLuxe",
+        "services": {
+          "carWashByHand": {
+            "title": "Autowäsche von Hand, einschließlich:",
+            "subItems": ["Autoräder", "Reifenpflege"]
+          },
+          "carPolish": {
+            "title": "Autopolitur in drei Stufen",
+            "firstStep": {
+              "title": "erste Stufe:",
+              "subItems": ["Entfernung von tiefen Kratzern"]
+            },
+            "secondStep": {
+              "title": "zweite Stufe:",
+              "subItems": [
+                "Farbrestauration",
+                "Glanzverstärkung",
+                "Beseitigung kleinerer Kratzer"
+              ]
+            },
+            "thirdStep": {
+              "title": "dritte Stufe:",
+              "subItems": ["Anti-Hologramm"]
+            }
+          }
+        }
+      },
+      "premium": {
+        "title": "Premium",
+        "services": {
+          "carWashByHand": {
+            "title": "Autowäsche von Hand, einschließlich:",
+            "subItems": [
+              "Autoräder",
+              "Autoscheiben (innen und außen)",
+              "Reifenpflege"
+            ]
+          },
+          "chemicalCleaning": {
+            "title": "Vollständige chemische Innen- und Kofferraumreinigung, einschließlich:",
+            "subItems": [
+              "Sitze",
+              "Teppiche",
+              "Bodenmatten",
+              "Decke",
+              "Türverkleidungen",
+              "alle Kunststoffteile",
+              "Reinigung der Türöffnungen"
+            ]
+          },
+          "carPolish": {
+            "title": "Autopolitur in drei Stufen",
+            "firstStep": {
+              "title": "erste Stufe:",
+              "subItems": ["Entfernung von tiefen Kratzern"]
+            },
+            "secondStep": {
+              "title": "zweite Stufe:",
+              "subItems": [
+                "Farbrestauration",
+                "Glanzverstärkung",
+                "Beseitigung kleinerer Kratzer"
+              ]
+            },
+            "thirdStep": {
+              "title": "dritte Stufe:",
+              "subItems": ["Anti-Hologramm"]
+            }
+          }
+        }
+      }
+    },
+    "additionalServices": {
+      "title": "Zusätzliche Dienstleistungen",
+      "leather": "Lederpflege",
+      "wax": "Lackversiegelung",
+      "ceramicSpray": "Keramikspray",
+      "ceramics": "Keramik-Versiegelung"
+    },
+    "carSizeSelector": {
+      "title": "Wählen Sie die Größe Ihres Fahrzeugs:",
+      "small": "Klein",
+      "medium": "Mittel",
+      "big": "Groß"
+    },
+    "overallPrice": "Gesamtpreis:",
+    "choosePackage": "Dieses Paket wählen",
+    "insideCleaning": "Innenreinigung",
+    "outsideCleaning": "Außenreinigung",
+    "bothCleaning": "Innen- und Außenreinigung"
+  },
+  "serviceDetailPage": {
+    "noPackageSelected": "Kein Paket ausgewählt. Bitte gehen Sie zurück und wählen Sie ein Paket."
+  },
+  "aboutSection": {
+    "title": "Über uns",
+    "headline": "Det-Car — professionelle Fahrzeugpflege",
+    "intro": "Wir bieten ein umfassendes Leistungsspektrum rund um die Fahrzeugaufbereitung und bringen Ihr Auto wieder in einen einwandfreien Zustand — optisch wie neu.",
+    "servicesHeading": "Unsere Leistungen:",
+    "services": [
+      "Innenreinigung (Fahrzeugaufbereitung)",
+      "Fahrzeugpolitur",
+      "Keramikbeschichtung (Lackversiegelung)",
+      "Regenabweiser (Antiregen) für Scheiben",
+      "Motorraumreinigung",
+      "Scheinwerferaufbereitung (Politur)"
+    ],
+    "paragraph2": "Wir entwickeln uns ständig weiter, verbessern unsere Techniken und erweitern unser Leistungsangebot, um unseren Kunden stets die besten Lösungen im Bereich Fahrzeugpflege zu bieten.",
+    "paragraph3": "Det-Car arbeitet erfolgreich mit Autohäusern und Fahrzeughändlern zusammen und steht für hohe Qualität sowie zuverlässige Ergebnisse.",
+    "closing": "Wir freuen uns auf eine Zusammenarbeit mit Ihrem Unternehmen!"
+  },
+  "contactSection": {
+    "title": "Kontakt",
+    "subtitle": "Nehmen Sie Kontakt mit uns auf.",
+    "address": "Addresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "socialTitle": "Folgen Sie uns",
+    "social": {
+      "tiktok": "Det-Car auf TikTok",
+      "youtube": "Det-Car auf YouTube",
+      "instagram": "Det-Car auf Instagram",
+      "facebook": "Det-Car auf Facebook"
+    }
+  },
+  "form": {
+    "title": "Füllen Sie Ihre Daten aus",
+    "errorText": "Es ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
+    "name": "Name",
+    "namePlaceholder": "Geben Sie Ihren Namen ein",
+    "email": "E-Mail",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "phone": "Telefon",
+    "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein",
+    "selectedPackage": "Ausgewähltes Paket:",
+    "selectedAdditionalServices": "Ausgewählte zusätzliche Dienstleistungen:",
+    "selectedVehicleSize": "Ausgewählte Fahrzeuggröße:",
+    "message": "Nachricht",
+    "submit": "Absenden",
+    "sending": "Senden..."
+  },
+  "successPage": {
+    "title": "Vielen Dank!",
+    "text": "Ihre Anfrage wurde erfolgreich gesendet. Wir werden uns in Kürze mit Ihnen in Verbindung setzen.",
+    "button": "Zurück zur Startseite"
+  },
+  "contactPage": {
+    "title": "Kontakt",
+    "subtitle": "Nehmen Sie Kontakt mit uns auf.",
+    "address": "Addresse",
+    "phone": "Telefon",
+    "email": "E-Mail"
+  }
+}

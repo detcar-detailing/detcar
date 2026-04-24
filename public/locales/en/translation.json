@@ -1,0 +1,257 @@
+{
+  "topbar": {
+    "home": "Home",
+    "contact": "Contacts",
+    "gallery": "Gallery",
+    "logoAlt": "Det-Car Logo"
+  },
+  "hero": {
+    "title": "Perfection in Details",
+    "subtitle": "Professional care for your car",
+    "backgroundAlt": "Retro car interior",
+    "contactPopover": {
+      "title": "Contacts",
+      "subtitle": "Get in touch with us.",
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location"
+    }
+  },
+  "servicesSection": {
+    "title": "Services",
+    "pricePrefix": "from",
+    "packages": {
+      "classicOne": {
+        "title": "Classic 1",
+        "services": {
+          "chemicalCleaning": {
+            "title": "Complete interior and trunk chemical cleaning, including:",
+            "subItems": [
+              "Seats",
+              "Carpets",
+              "Mats",
+              "Ceiling",
+              "Door panels",
+              "All plastic parts",
+              "Cleaning of doorways",
+              "Cleaning of windows on the inside"
+            ]
+          }
+        }
+      },
+      "classicTwo": {
+        "title": "Classic 2",
+        "services": {
+          "carWashByHand": {
+            "title": "Hand wash, including:",
+            "subItems": ["Wheels", "Windows (inside and outside)", "Tire care"]
+          },
+          "carPolish": {
+            "title": "Two-step car polishing:",
+            "firstStep": {
+              "title": "First step:",
+              "subItems": [
+                "Color restoration",
+                "Gloss enhancement",
+                "Scratch removal"
+              ]
+            },
+            "secondStep": {
+              "title": "Second step:",
+              "subItems": ["Anti-hologram"]
+            }
+          }
+        }
+      },
+      "Luxe": {
+        "title": "Luxe",
+        "services": {
+          "carWashByHand": {
+            "title": "Hand wash, including:",
+            "subItems": ["Wheels", "Windows (inside and outside)", "Tire care"]
+          },
+          "chemicalCleaning": {
+            "title": "Complete interior and trunk chemical cleaning, including:",
+            "subItems": [
+              "Seats",
+              "Carpets",
+              "Mats",
+              "Ceiling",
+              "Door panels",
+              "All plastic parts",
+              "Cleaning of doorways",
+              "Cleaning of windows on the inside"
+            ]
+          },
+          "carPolish": {
+            "title": "Two-step car polishing:",
+            "firstStep": {
+              "title": "First step:",
+              "subItems": [
+                "Color restoration",
+                "Gloss enhancement",
+                "Scratch removal"
+              ]
+            },
+            "secondStep": {
+              "title": "Second step:",
+              "subItems": ["Anti-hologram"]
+            }
+          }
+        }
+      },
+      "DeLuxe": {
+        "title": "DeLuxe",
+        "services": {
+          "carWashByHand": {
+            "title": "Hand wash, including:",
+            "subItems": ["Wheels", "Tire care"]
+          },
+          "carPolish": {
+            "title": "Three-step car polishing:",
+            "firstStep": {
+              "title": "First step:",
+              "subItems": ["Deep scratch removal"]
+            },
+            "secondStep": {
+              "title": "Second step:",
+              "subItems": [
+                "Color restoration",
+                "Gloss enhancement",
+                "Scratch removal"
+              ]
+            },
+            "thirdStep": {
+              "title": "Third step:",
+              "subItems": ["Anti-hologram"]
+            }
+          }
+        }
+      },
+      "premium": {
+        "title": "Premium",
+        "services": {
+          "carWashByHand": {
+            "title": "Hand wash, including:",
+            "subItems": [
+              "Wheels",
+              "Windows (inside and outside)",
+              "Tire care"
+            ]
+          },
+          "chemicalCleaning": {
+            "title": "Complete interior and trunk chemical cleaning, including:",
+            "subItems": [
+              "Seats",
+              "Carpets",
+              "Mats",
+              "Ceiling",
+              "Door panels",
+              "All plastic parts",
+              "Cleaning of doorways"
+            ]
+          },
+          "carPolish": {
+            "title": "Three-step car polishing:",
+            "firstStep": {
+              "title": "First step:",
+              "subItems": ["Deep scratch removal"]
+            },
+            "secondStep": {
+              "title": "Second step:",
+              "subItems": [
+                "Color restoration",
+                "Gloss enhancement",
+                "Scratch removal"
+              ]
+            },
+            "thirdStep": {
+              "title": "Third step:",
+              "subItems": ["Anti-hologram"]
+            }
+          }
+        }
+      }
+    },
+    "additionalServices": {
+      "title": "Additional Services",
+      "leather": "Leather care",
+      "wax": "Waxing",
+      "ceramicSpray": "Ceramic spray",
+      "ceramics": "Ceramic coating"
+    },
+    "carSizeSelector": {
+      "title": "Select your vehicle size:",
+      "small": "Small",
+      "medium": "Medium",
+      "big": "Large"
+    },
+    "overallPrice": "Total price:",
+    "choosePackage": "Choose this package",
+    "insideCleaning": "Interior cleaning",
+    "outsideCleaning": "Exterior cleaning",
+    "bothCleaning": "Interior and exterior cleaning"
+  },
+  "serviceDetailPage": {
+    "noPackageSelected": "No package selected. Please go back and choose a package."
+  },
+  "aboutSection": {
+    "title": "About us",
+    "headline": "Det-Car — professional vehicle care",
+    "intro": "We offer a comprehensive range of vehicle detailing services and bring your car back to flawless condition — looking like new.",
+    "servicesHeading": "Our services:",
+    "services": [
+      "Interior cleaning (vehicle detailing)",
+      "Vehicle polishing",
+      "Ceramic coating (paint sealant)",
+      "Rain repellent (anti-rain) for glass",
+      "Engine bay cleaning",
+      "Headlight restoration (polishing)"
+    ],
+    "paragraph2": "We continuously improve our techniques and expand our services to offer our customers the best solutions in vehicle care.",
+    "paragraph3": "Det-Car works successfully with dealerships and vehicle traders and stands for high quality and reliable results.",
+    "closing": "We look forward to working with your company!"
+  },
+  "contactSection": {
+    "title": "Contacts",
+    "subtitle": "Get in touch with us.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "socialTitle": "Follow us",
+    "social": {
+      "tiktok": "Det-Car on TikTok",
+      "youtube": "Det-Car on YouTube",
+      "instagram": "Det-Car on Instagram",
+      "facebook": "Det-Car on Facebook"
+    }
+  },
+  "form": {
+    "title": "Fill in your details",
+    "errorText": "An error occurred, please try again.",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "selectedPackage": "Selected package:",
+    "selectedAdditionalServices": "Selected additional services:",
+    "selectedVehicleSize": "Selected vehicle size:",
+    "message": "Message",
+    "submit": "Submit",
+    "sending": "Sending..."
+  },
+  "successPage": {
+    "title": "Thank you!",
+    "text": "Your request has been successfully sent. We will contact you shortly.",
+    "button": "Return to home"
+  },
+  "contactPage": {
+    "title": "Contacts",
+    "subtitle": "Get in touch with us.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  }
+}

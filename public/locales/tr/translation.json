@@ -1,0 +1,280 @@
+{
+    "topbar": {
+        "home": "Ana Sayfa",
+        "contact": "İletişim",
+        "gallery": "Galeri",
+        "logoAlt": "Det-Car Logosu"
+    },
+    "hero": {
+        "title": "Detaylarda Mükemmellik",
+        "subtitle": "Aracınıza profesyonel bakım",
+        "backgroundAlt": "Retro araba iç mekanı",
+        "contactPopover": {
+            "title": "İletişim",
+            "subtitle": "Bizimle iletişime geçin.",
+            "phone": "Telefon",
+            "email": "E-posta",
+            "location": "Konum"
+        }
+    },
+    "servicesSection": {
+        "title": "Hizmetler",
+        "pricePrefix": "En az",
+        "packages": {
+            "classicOne": {
+                "title": "Classic 1",
+                "services": {
+                    "chemicalCleaning": {
+                        "title": "İç ve bagaj bölmesi için tam kimyasal temizlik, şunlar dahil:",
+                        "subItems": [
+                            "Koltuklar",
+                            "Halılar",
+                            "Paspaslar",
+                            "Tavan",
+                            "Kapı panelleri",
+                            "Tüm plastik parçalar",
+                            "Kapı girişlerinin temizliği",
+                            "Camların iç yüzeyinin temizliği"
+                        ]
+                    }
+                }
+            },
+            "classicTwo": {
+                "title": "Classic 2",
+                "services": {
+                    "carWashByHand": {
+                        "title": "Elle yıkama, şunlar dahil:",
+                        "subItems": [
+                            "Jantlar",
+                            "Camlar (iç ve dış)",
+                            "Lastik bakımı"
+                        ]
+                    },
+                    "carPolish": {
+                        "title": "İki aşamalı cila:",
+                        "firstStep": {
+                            "title": "Birinci aşama:",
+                            "subItems": [
+                                "Renk onarımı",
+                                "Parlaklık artırma",
+                                "Çizik giderme"
+                            ]
+                        },
+                        "secondStep": {
+                            "title": "İkinci aşama:",
+                            "subItems": [
+                                "Anti-hologram"
+                            ]
+                        }
+                    }
+                }
+            },
+            "Luxe": {
+                "title": "Luxe",
+                "services": {
+                    "carWashByHand": {
+                        "title": "Elle yıkama, şunlar dahil:",
+                        "subItems": [
+                            "Jantlar",
+                            "Camlar (iç ve dış)",
+                            "Lastik bakımı"
+                        ]
+                    },
+                    "chemicalCleaning": {
+                        "title": "İç ve bagaj bölmesi için tam kimyasal temizlik, şunlar dahil:",
+                        "subItems": [
+                            "Koltuklar",
+                            "Halılar",
+                            "Paspaslar",
+                            "Tavan",
+                            "Kapı panelleri",
+                            "Tüm plastik parçalar",
+                            "Kapı girişlerinin temizliği",
+                            "Camların iç yüzeyinin temizliği"
+                        ]
+                    },
+                    "carPolish": {
+                        "title": "İki aşamalı cila:",
+                        "firstStep": {
+                            "title": "Birinci aşama:",
+                            "subItems": [
+                                "Renk onarımı",
+                                "Parlaklık artırma",
+                                "Çizik giderme"
+                            ]
+                        },
+                        "secondStep": {
+                            "title": "İkinci aşama:",
+                            "subItems": [
+                                "Anti-hologram"
+                            ]
+                        }
+                    }
+                }
+            },
+            "DeLuxe": {
+                "title": "DeLuxe",
+                "services": {
+                    "carWashByHand": {
+                        "title": "Elle yıkama, şunlar dahil:",
+                        "subItems": [
+                            "Jantlar",
+                            "Lastik bakımı"
+                        ]
+                    },
+                    "carPolish": {
+                        "title": "Üç aşamalı cila:",
+                        "firstStep": {
+                            "title": "Birinci aşama:",
+                            "subItems": [
+                                "Derin çizik giderme"
+                            ]
+                        },
+                        "secondStep": {
+                            "title": "İkinci aşama:",
+                            "subItems": [
+                                "Renk onarımı",
+                                "Parlaklık artırma",
+                                "Çizik giderme"
+                            ]
+                        },
+                        "thirdStep": {
+                            "title": "Üçüncü aşama:",
+                            "subItems": [
+                                "Anti-hologram"
+                            ]
+                        }
+                    }
+                }
+            },
+            "premium": {
+                "title": "Premium",
+                "services": {
+                    "carWashByHand": {
+                        "title": "Elle yıkama, şunlar dahil:",
+                        "subItems": [
+                            "Jantlar",
+                            "Camlar (iç ve dış)",
+                            "Lastik bakımı"
+                        ]
+                    },
+                    "chemicalCleaning": {
+                        "title": "İç ve bagaj bölmesi için tam kimyasal temizlik, şunlar dahil:",
+                        "subItems": [
+                            "Koltuklar",
+                            "Halılar",
+                            "Paspaslar",
+                            "Tavan",
+                            "Kapı panelleri",
+                            "Tüm plastik parçalar",
+                            "Kapı girişlerinin temizliği"
+                        ]
+                    },
+                    "carPolish": {
+                        "title": "Üç aşamalı cila:",
+                        "firstStep": {
+                            "title": "Birinci aşama:",
+                            "subItems": [
+                                "Derin çizik giderme"
+                            ]
+                        },
+                        "secondStep": {
+                            "title": "İkinci aşama:",
+                            "subItems": [
+                                "Renk onarımı",
+                                "Parlaklık artırma",
+                                "Çizik giderme"
+                            ]
+                        },
+                        "thirdStep": {
+                            "title": "Üçüncü aşama:",
+                            "subItems": [
+                                "Anti-hologram"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "additionalServices": {
+            "title": "Ekstra Hizmetler",
+            "leather": "Deri bakımı",
+            "wax": "Cila",
+            "ceramicSpray": "Seramik sprey",
+            "ceramics": "Seramik kaplama"
+        },
+        "carSizeSelector": {
+            "title": "Aracınızın boyutunu seçin:",
+            "small": "Küçük",
+            "medium": "Orta",
+            "big": "Büyük"
+        },
+        "overallPrice": "Toplam fiyat:",
+        "choosePackage": "Bu paketi seçin",
+        "insideCleaning": "İç temizlik",
+        "outsideCleaning": "Dış temizlik",
+        "bothCleaning": "İç ve dış temizlik"
+    },
+    "serviceDetailPage": {
+        "noPackageSelected": "Paket seçilmedi. Lütfen geri dönün ve bir paket seçin."
+    },
+    "aboutSection": {
+        "title": "Hakkımızda",
+        "headline": "Det-Car — profesyonel araç bakımı",
+        "intro": "Araç bakımı ve detaylı temizlik konusunda kapsamlı bir hizmet yelpazesi sunuyor, aracınızı kusursuz duruma getiriyoruz — görünümü yepyeni gibi.",
+        "servicesHeading": "Hizmetlerimiz:",
+        "services": [
+            "İç temizlik (araç detaylandırma)",
+            "Araç cilası",
+            "Seramik kaplama (boya koruma)",
+            "Cam için yağmur itici (antiregen)",
+            "Motor bölmesi temizliği",
+            "Far bakımı (cila)"
+        ],
+        "paragraph2": "Sürekli gelişiyor, tekniklerimizi iyileştiriyor ve hizmetlerimizi genişleterek müşterilerimize araç bakımında en iyi çözümleri sunmayı hedefliyoruz.",
+        "paragraph3": "Det-Car, galeriler ve araç satıcılarıyla başarıyla çalışır; yüksek kalite ve güvenilir sonuçlar sunar.",
+        "closing": "Şirketinizle iş birliği yapmayı dört gözle bekliyoruz!"
+    },
+    "contactSection": {
+        "title": "İletişim",
+        "subtitle": "Bizimle iletişime geçin.",
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta",
+        "socialTitle": "Bizi takip edin",
+        "social": {
+            "tiktok": "Det-Car TikTok",
+            "youtube": "Det-Car YouTube",
+            "instagram": "Det-Car Instagram",
+            "facebook": "Det-Car Facebook"
+        }
+    },
+    "form": {
+        "title": "Bilgilerinizi doldurun",
+        "errorText": "Bir hata oluştu, lütfen tekrar deneyin.",
+        "name": "İsim",
+        "namePlaceholder": "İsminizi girin",
+        "email": "E-posta",
+        "emailPlaceholder": "E-posta adresinizi girin",
+        "phone": "Telefon",
+        "phonePlaceholder": "Telefon numaranızı girin",
+        "selectedPackage": "Seçilen paket:",
+        "selectedAdditionalServices": "Seçilen ekstra hizmetler:",
+        "selectedVehicleSize": "Seçilen araç boyutu:",
+        "message": "Mesaj",
+        "submit": "Gönder",
+        "sending": "Gönderiliyor..."
+    },
+    "successPage": {
+        "title": "Teşekkürler!",
+        "text": "Talebiniz başarıyla gönderildi. Kısa süre içinde sizinle iletişime geçeceğiz.",
+        "button": "Ana sayfaya dön"
+    },
+    "contactPage": {
+        "title": "İletişim",
+        "subtitle": "Bizimle iletişime geçin.",
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta"
+    }
+}

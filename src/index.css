@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    ::selection {
+      @apply bg-myColor-orange text-myColor-black;
+    }
+  
+    ::-moz-selection {
+      @apply bg-myColor-orange text-myColor-black;
+    }
+
+    ::marker {
+        @apply text-myColor-orange;
+    }
+}
+
+@layer utilities {
+  .patterned-bg {
+    position: relative;  /* Set relative position for stacking context */
+    z-index: 0; /* Ensure the background is behind the content */
+    border-radius: 1.5rem; /* Ensure the parent element has the border-radius */
+  }
+
+  .patterned-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("./assets/patterns/pandus3.jpg") repeat;
+    background-size: 35px 35px;
+    background-color: black;
+    filter: brightness(0.5); /* Apply brightness to background only */
+    z-index: -1; /* Ensure the background stays behind text/content */
+    opacity: 1; /* Ensure full visibility */
+    pointer-events: none; /* Prevents interaction with the pseudo-element */
+    border-radius: inherit; /* Inherit the border-radius from the parent */
+  }
+}
